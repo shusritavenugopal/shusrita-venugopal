@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### How I started:
+
+npx create-react-app portfolio
+cd portfolio
+code .
+npm start
+add packages in package.json
+npm i
+For all the css, I'm using styled-components, material ui and emotion react. 
+- The ThemeProvider in React is a component used in conjunction with styling libraries such as styled-components, Material-UI, or Emotion to provide a consistent theme across an entire application. It allows you to define a theme with properties like colors, fonts, spacing, and more, and then apply this theme to all components within the scope of the ThemeProvider.
+
+
