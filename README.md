@@ -2,7 +2,7 @@
 
 <img width="1470" alt="portfolio" src="https://github.com/shusritavenugopal/shusrita-venugopal/assets/63789652/cb4aac11-28a6-4417-9e7a-5ed2e4217c73">
 
-## Project Description![Uploading portfolio.png…]()
+## Project Description
 
 This portfolio website serves as a comprehensive introduction to my professional identity. It highlights my skills, experiences, projects, and achievements. The website is designed to be responsive and accessible, ensuring a seamless experience across various devices.
 
