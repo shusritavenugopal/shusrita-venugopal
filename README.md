@@ -84,6 +84,18 @@ Contributions are welcome! If you have suggestions for improving this project, p
     ```
 6. Create a pull request.
 
+## Deploy changes
+
+1. git checkout gh-pages 
+2. git pull origin gh-pages --allow-unrelated-histories --no-rebase
+3. Make the code changes to the gh-pages branch.
+4. npm run build
+5. cp -r build/* .
+6. git add .
+7. git commit -m "Commit message"
+8. git push origin gh-pages
+
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 

@@ -6,9 +6,9 @@ export const Bio = {
       "Salesforce Commerce Cloud Developer"
     ],
     description:
-      "A passionate software engineer and a machine learning enthusiast, currently pursuing MS in Information Science at the University of Pittsburgh. My interests lie in software engineering and machine learning.",
+      "I am a passionate software engineer and machine learning enthusiast, currently pursuing an MS in Information Science at the University of Pittsburgh. My interests encompass both software engineering and machine learning.",
     description2: 
-    "I've refined my skills through community-based projects, focusing on real-world impact. What sets me apart is that I enjoy working backwards from the customer's perspective and strengthened their experience by gathering data.",
+    "I have honed my skills through impactful community-based projects, creating apps and platforms that improve quality of life and resource access. What sets me apart is my customer-centric approach, enhancing user experiences through insightful data gathering. ",
     github: "https://github.com/shusritavenugopal",
     resume:
       "https://drive.google.com/file/d/1MvcQMmvV1G8xQnN4b2VUiRGKaMnFDfv4/view?usp=sharing",
