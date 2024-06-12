@@ -85,7 +85,7 @@ Contributions are welcome! If you have suggestions for improving this project, p
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-If you have any questions or comments, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or comments, feel free to reach out to me at [shusritavenugopal@gmail.com](mailto:shusritavenugopal@gmail.com).
 
 Visit the live site: [shusritavenugopal.github.io/shusrita-venugopal](https://shusritavenugopal.github.io/shusrita-venugopal/)
 
