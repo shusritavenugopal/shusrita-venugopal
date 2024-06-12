@@ -1,5 +1,5 @@
 # Personal Portfolio
-![portfolio](../src/images/portfolio.png)
+![portfolio](file:///Users/shusritavenugopal/Documents/Projects/portfolio/shusrita-venugopal/portfolio.png)
 
 ## Project Description
 This portfolio website serves as a comprehensive introduction to my professional identity. It highlights my skills, experiences, projects, and achievements. The website is designed to be responsive and accessible, ensuring a seamless experience across various devices.
