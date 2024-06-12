@@ -1,5 +1,5 @@
 # Personal Portfolio
-![portfolio](file:///Users/shusritavenugopal/Documents/Projects/portfolio/shusrita-venugopal/portfolio.png)
+
 <img width="1470" alt="portfolio" src="https://github.com/shusritavenugopal/shusrita-venugopal/assets/63789652/cb4aac11-28a6-4417-9e7a-5ed2e4217c73">
 
 ## Project Description![Uploading portfolio.png…]()
