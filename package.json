@@ -2,7 +2,7 @@
   "name": "shusrita-venugopal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shusritavenugopal.github.io/shusrita-venugopal/src/index.js",
+  "homepage": "https://shusritavenugopal.github.io/shusrita-venugopal/",
   "dependencies": {
     "@emailjs/browser": "4.3.3",
     "@emotion/react": "11.11.4",
