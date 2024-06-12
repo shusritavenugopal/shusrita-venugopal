@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shusrita-venugopal/static/css/main.bf538fe7.css",
+    "main.js": "/shusrita-venugopal/static/js/main.581c9996.js",
+    "static/media/HeroImage.JPG": "/shusrita-venugopal/static/media/HeroImage.c651a7b8f9fbfe044813.JPG",
+    "index.html": "/shusrita-venugopal/index.html",
+    "main.bf538fe7.css.map": "/shusrita-venugopal/static/css/main.bf538fe7.css.map",
+    "main.581c9996.js.map": "/shusrita-venugopal/static/js/main.581c9996.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.581c9996.js"
+  ]
+}
