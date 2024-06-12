@@ -20,6 +20,7 @@ This portfolio website serves as a comprehensive introduction to my professional
 - **GitHub Pages**: For hosting the portfolio.
 
 **Website URL :** [shusrita-venugopal](https://shusritavenugopal.github.io/shusrita-venugopal/)
+
 If you like this, please leave a ⭐! Thank you!
 
 ## Setup Instructions
