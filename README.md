@@ -1,5 +1,5 @@
 # Personal Portfolio
-![portfolio](https://drive.google.com/file/d/1F7S4VxUmCkqAyDF3u7ig-QH-aPUBTdBF/view?usp=sharing)
+![portfolio](../src/images/portfolio.png)
 
 ## Project Description
 This portfolio website serves as a comprehensive introduction to my professional identity. It highlights my skills, experiences, projects, and achievements. The website is designed to be responsive and accessible, ensuring a seamless experience across various devices.
