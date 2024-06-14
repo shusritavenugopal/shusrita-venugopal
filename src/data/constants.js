@@ -165,21 +165,23 @@ export const experiences = [
     role: "Graduate Research Assistant - Machine Learning",
     company: "University of Pittsburgh",
     date: "May 2024 - present",
-    desc: "Research project focused on developing Machine Learning models to identify ecosystem bottlenecks in Streaming Media and Content.",
+    desc: `This funded project aims to address gaps in the understanding of bottlenecks within ecosystems and their impact on innovation and performance.
+           My role involves developing a supervised machine learning model to predict when specific bottlenecks are likely to emerge within an ecosystem.
+           `,
     skills: [
       "Machine Learning",
       "Python",
       "AWS"
     ],
     doc: "",
-  }, 
+  },
   {
     id: 1,
     img: "",
     role: "Graduate Teaching Assistant for Discrete Mathematics",
     company: "University of Pittsburgh",
     date: "Jan 2024 - Apr 2024",
-    desc: "Research project focused on developing Machine Learning models to identify ecosystem bottlenecks in Streaming Media and Content.",
+    desc: "Offered personalized academic support to students, addressing their individual questions and concerns to promote understanding and confidence in the subject matter. Graded assignments, quizzes, and exams promptly and fairly, providing constructive feedback to help students improve their performance and grasp of discrete mathematics.",
     skills: [
       "Problem Solving",
       "Logical Reasoning",
@@ -193,7 +195,7 @@ export const experiences = [
     role: "Graduate Teaching Assistant for Intermediate Programming in Java",
     company: "University of Pittsburgh",
     date: "Aug 2023 - Dec 2023",
-    desc: "Research project focused on developing Machine Learning models to identify ecosystem bottlenecks in Streaming Media and Content.",
+    desc: "Facilitated interactive and collaborative learning environments during office hours and lab sessions, where students could seek help with coding assignments, projects, and debugging. Provided personalized academic support and mentorship, addressing individual questions and concerns to enhance students' programming skills and confidence.",
     skills: [
       "Java",
       "Data Structures",
