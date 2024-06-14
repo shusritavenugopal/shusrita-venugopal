@@ -1,6 +1,6 @@
 # Personal Portfolio
+<img width="1470" alt="Screenshot 2024-06-14 at 4 32 30 PM" src="https://github.com/shusritavenugopal/shusrita-venugopal/assets/63789652/011737ab-2f9a-400b-994c-df3cc695eb5c">
 
-<img width="1470" alt="portfolio" src="https://github.com/shusritavenugopal/shusrita-venugopal/assets/63789652/cb4aac11-28a6-4417-9e7a-5ed2e4217c73">
 
 ## Project Description
 
