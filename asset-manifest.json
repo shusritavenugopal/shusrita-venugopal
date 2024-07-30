@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shusrita-venugopal/static/css/main.bf538fe7.css",
-    "main.js": "/shusrita-venugopal/static/js/main.22c70eb4.js",
-    "static/media/HeroImage.JPG": "/shusrita-venugopal/static/media/HeroImage.c651a7b8f9fbfe044813.JPG",
-    "index.html": "/shusrita-venugopal/index.html",
-    "main.bf538fe7.css.map": "/shusrita-venugopal/static/css/main.bf538fe7.css.map",
-    "main.22c70eb4.js.map": "/shusrita-venugopal/static/js/main.22c70eb4.js.map"
+    "main.css": "/portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/portfolio/static/js/main.f68f8263.js",
+    "static/media/HeroImage.JPG": "/portfolio/static/media/HeroImage.c651a7b8f9fbfe044813.JPG",
+    "index.html": "/portfolio/index.html",
+    "main.bf538fe7.css.map": "/portfolio/static/css/main.bf538fe7.css.map",
+    "main.f68f8263.js.map": "/portfolio/static/js/main.f68f8263.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.22c70eb4.js"
+    "static/js/main.f68f8263.js"
   ]
 }
