@@ -136,6 +136,12 @@ export const TextLoop = styled.div`
   }
 `;
 
+export const ButtonContainer = styled.div`
+  display: flex;
+  gap: 10px; /* Adjust the space between buttons here */
+  margin-top: 20px; /* Optional: Add margin to separate from other content */
+`;
+
 export const Span = styled.span`
   color: ${({ theme }) => theme.primary};
   cursor: pointer;
@@ -144,7 +150,7 @@ export const Span = styled.span`
 export const SubTitle = styled.div`
   font-size: 20px;
   line-height: 32px;
-  margin-bottom: 42px;
+  margin-bottom: 10px;
   color: ${({ theme }) => theme.text_primary + 95};
 
   @media (max-width: 960px) {
@@ -163,19 +169,19 @@ export const ResumeButton = styled.a`
     appearance: button;
     text-decoration: none;
     width: 95%;
-    max-width: 200px;
+    max-width: 100px;
     text-align: center;
-    padding: 16px 0;
+    padding: 14px 0;
     color:${({ theme }) => theme.white};
     border-radius: 20px;
     cursor: pointer;
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 18px;
+    font-weight: 400;
     transition: all 0.2s ease-in-out !important;
-    background: hsla(271, 100%, 50%, 1);
-    background: linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
-    background: -moz-linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
-    background: -webkit-linear-gradient(225deg, hsla(271, 100%, 50%, 1) 0%, hsla(294, 100%, 50%, 1) 100%);
+    background: hsl(320, 100%, 50%);
+    background: linear-gradient(225deg, hsla(320, 100%, 50%, 1) 0%, hsla(340, 100%, 50%, 1) 100%);
+    background: -moz-linear-gradient(225deg, hsla(320, 100%, 50%, 1) 0%, hsla(340, 100%, 50%, 1) 100%);
+    background: -webkit-linear-gradient(225deg, hsla(320, 100%, 50%, 1) 0%, hsla(340, 100%, 50%, 1) 100%);
     box-shadow:  20px 20px 60px #1F2634,
     -20px -20px 60px #1F2634;
     &:hover {
@@ -191,4 +197,19 @@ export const ResumeButton = styled.a`
         font-size: 18px;
     } 
 
+`;
+
+export const SocialMediaIcons = styled.div`
+  display: flex;
+`;
+
+export const SocialMediaIcon = styled.a`
+  display: inline-block;
+  margin: 0 1rem;
+  font-size: 3rem;
+  color: ${({ theme }) => theme.button};
+  transition: color 0.2s ease-in-out;
+  &:hover {
+    color: ${({ theme }) => theme.primary};
+  }
 `;

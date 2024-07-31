@@ -14,7 +14,7 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-          <Img src={HeroImg} alt="App Logo" /> <Span>Shusrita Venugopal</Span>
+          <Img src={HeroImg} alt="App Logo" /> <Span>Home</Span>
           </a>
         </NavLogo>
         <MobileIcon>
@@ -32,7 +32,10 @@ const Navbar = () => {
         <ButtonContainer>
           <GitHubButton href={Bio.github} target="_blank">Github</GitHubButton>
           <GitHubButton href={Bio.linkedin} target="_blank">LinkedIn</GitHubButton>
+          <GitHubButton href={Bio.resume} target="_blank">Resume</GitHubButton>
+          <GitHubButton href={Bio.medium} target="_blank">Medium</GitHubButton>
         </ButtonContainer>
+
         {
           isOpen &&
           <MobileMenu isOpen={isOpen}>
